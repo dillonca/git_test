@@ -1,1 +1,4 @@
-# git_test
+README.md
+#git_test
+My first GitHub repo! 
+Hello Odin!
